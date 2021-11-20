@@ -1,0 +1,15 @@
+/* inline */
+/* block */
+/* inline block */
+
+.one {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    background-color: green;
+    padding: 30px;/*fake size*/
+    /* padding: 20px 50px; first top bottom second left right */
+    border: 20px solid yellowgreen;
+    border-radius: 20px;
+    margin: 20px;
+}
